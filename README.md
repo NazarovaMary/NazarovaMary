@@ -1,4 +1,4 @@
-<h1 align="center">Всем привет! Я Мария<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Всем привет! Я Мария <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 :hammer_and_wrench: Languages and Tools :
 <br>
