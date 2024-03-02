@@ -1,6 +1,6 @@
 <h1 align="center">Всем привет! Я Мария <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-![collage7](https://github.com/NazarovaMary/NazarovaMary/assets/145542673/a420912f-5294-4019-b3cb-ec9adc94faab)
+![collage8](https://github.com/NazarovaMary/NazarovaMary/assets/145542673/90b0030d-f1cc-43b2-ab33-3141b0172df6)
 
 
 :hammer_and_wrench: Languages and Tools :
