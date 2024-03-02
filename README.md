@@ -3,7 +3,7 @@
 ![collage8](https://github.com/NazarovaMary/NazarovaMary/assets/145542673/67c933c8-9eec-4d85-bd3e-26e20a8d9f8c)
 
 
-:hammer_and_wrench: Languages and Tools :
+:hammer_and_wrench: Languages and tools :
 <br>
 <br>
 <div>
@@ -17,7 +17,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original-wordmark.svg" title="Sourcetree" **alt="Git" width="40" height="40"/>
 </div>
 <br>
-:fire: My Stats :
+:fire: My stats :
 <br>
 <br>
 
