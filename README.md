@@ -1,6 +1,7 @@
 <h1>Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-![collage8](https://github.com/NazarovaMary/NazarovaMary/assets/145542673/67c933c8-9eec-4d85-bd3e-26e20a8d9f8c)
+![luxa org-bordered-collage8](https://github.com/NazarovaMary/NazarovaMary/assets/145542673/2440534c-04b4-4932-b667-508ec8c7cc86)
+
 
 
 :hammer_and_wrench: Languages and tools :
