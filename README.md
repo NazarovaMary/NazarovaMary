@@ -1,6 +1,6 @@
 <h1>Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-![collage8](https://github.com/NazarovaMary/NazarovaMary/assets/145542673/90b0030d-f1cc-43b2-ab33-3141b0172df6)
+![collage8](https://github.com/NazarovaMary/NazarovaMary/assets/145542673/8f619138-4840-4f92-a1de-80a2ab49846b)
 
 
 :hammer_and_wrench: Languages and Tools :
